@@ -1,0 +1,3 @@
+
+.icon-building { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0f7;&nbsp;'); }
+.icon-space-shuttle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf197;&nbsp;'); }
